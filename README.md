@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center> ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) </center>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
