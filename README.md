@@ -19,6 +19,8 @@
   <img align="left" alt="Immanuel's Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 </div>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=immanuelsavio)
+
 <br />
 
