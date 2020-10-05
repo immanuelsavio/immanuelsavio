@@ -4,7 +4,6 @@
 
 <div align="center" width="50">
 
-</div align="center>
 
 <a href="https://twitter.com/immanuel251298">
   <img align="left" alt="Immanuel Savio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -25,3 +24,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
+
+</div>
