@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Immanuel, a full-time software developer at Dell Technologies 👨‍💻 working for DFS India 🤘</div>  
+### <div align="center">I'm Immanuel, a full-time software developer at Dell Technologies 👨‍💻 working for DFS India 🤘 in the morning and a curious kid 🙆‍♂️ who loves to explore tech ⏳ at night</div>  
   
 
 - 🔭 I’m currently working on [gRPC with Protobuf](https://github.com/immanuelsavio/Protobuf)  
