@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/immanuelsavio/immanuelsavio/blob/master/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -15,7 +15,7 @@
 - ❓ If you want to talk about Deep Learning, backend or any emerging tech, I'm your guy  
   
 
-- ⚡ Fun fact: I know multiple languages not only to code but also to talk 😉  
+- ⚡ Fun fact: I can not only code, I can also speak in multiple languages 😉  
   
 
 <br/>  
@@ -118,3 +118,4 @@
 <br />
 
 ----
+<i>GIF credits https://rishavanand.github.io/static/images/greetings.gif</i>
