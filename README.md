@@ -6,16 +6,16 @@
 ### <div align="center">I'm Immanuel, a Data Science Graduate student 👨‍💻 at Indiana University Bloomington in the morning and a curious kid 🤓 who loves to explore tech 📱 at night</div>  
   
 
-- 🔭 I’m currently invested in brushing up my knowledge about data mining, database concepts and statistics
+- 🔭 I’m currently invested in brushing up my knowledge about machine learning, deep learning and their applications
   
 
-- 👨‍💻 My research intresets include Computer Vision and Distributed Deep Learning
+- 👨‍💻 My research intresets include Computer Vision, Multivariate analysis and Semi-supervised Latent Feature Embedding
   
 
-- ❓ If you want to talk about Deep Learning, backend or any emerging tech, I'm your guy  
+- ❓ If you want to talk about AI, ML or any emerging tech, I'm your guy  
   
 
-- ⚡ Fun fact: I can not only code, I can also speak in multiple languages 😉  
+- ⚡ Fun fact: I can not only code but also speak in multiple languages 😉  
   
 
 <br/>  
